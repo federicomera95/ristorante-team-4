@@ -1,6 +1,13 @@
 nome ristorante: Team 4
 
 Bevande
+- Acqua 1l/1,50€
+- Coca cola 0,33cl/1,50€
+- Fanta 0,33cl/1,50€
+- Peroni 0,66cl/2,50€
+- Moretti 0,66cl/3,00€
+- Vino rosso della casa 0,75cl/5,00€
+- Vino bianco della casa 0,75cl/5,00€
 Antipasti
 Primi piatti
 Secondi piatti
