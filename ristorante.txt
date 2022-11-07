@@ -2,6 +2,18 @@ nome ristorante: Team 4
 
 Bevande
 Antipasti
+patatine 3€
+mozzarelle 4€
+Focaccia soffice con ricotta nell’impasto 7€
+Zucchine ripiene di ricotta 5€
+Salmorejo zuppa fredda spagnola 100€
+Crackers a lievitazione naturale con salsa guacamole e salmone affumicato  27€
+Pan brioche con latte di soia ripieno di broccoli e salsiccia fresca   12€
+Verdure gratinate al forno  10€
+Torta rustica zucchine ricotta e salmone affumicato  21€
+Babà rustico napoletano  34€
+
+
 Primi piatti
 Secondi piatti
 
