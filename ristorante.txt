@@ -1,8 +1,37 @@
 nome ristorante: Team 4
 
 Bevande
+- Acqua 1l/1,50€
+- Coca cola 0,33cl/1,50€
+- Fanta 0,33cl/1,50€
+- Peroni 0,66cl/2,50€
+- Moretti 0,66cl/3,00€
+- Vino rosso della casa 0,75cl/5,00€
+- Vino bianco della casa 0,75cl/5,00€
 Antipasti
+patatine 3€
+mozzarelle 4€
+Focaccia soffice con ricotta nell’impasto 7€
+Zucchine ripiene di ricotta 5€
+Salmorejo zuppa fredda spagnola 100€
+Crackers a lievitazione naturale con salsa guacamole e salmone affumicato  27€
+Pan brioche con latte di soia ripieno di broccoli e salsiccia fresca   12€
+Verdure gratinate al forno  10€
+Torta rustica zucchine ricotta e salmone affumicato  21€
+Babà rustico napoletano  34€
+
+
 Primi piatti
 - Spaghetti alle vongole (5€)
 - Risotto allo zafferano (4€)
 Secondi piatti
+
+-Insalata invernale. €8
+-Sarde in saor. €10
+-Spiedini di carne e verdure. €9
+-Carpaccio di manzo con rucola e grana. €15
+-Insalata tiepida di verdure. €10
+-Cozze al vapore. 10-20 min. €9
+-Filetti di pangasio con champignon.€9
+-Tonno con funghi champignon. €10
+
