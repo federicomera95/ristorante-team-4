@@ -4,3 +4,12 @@ Bevande
 Antipasti
 Primi piatti
 Secondi piatti
+
+-Insalata invernale. €8
+-Sarde in saor. €10
+-Spiedini di carne e verdure. €9
+-Carpaccio di manzo con rucola e grana. €15
+-Insalata tiepida di verdure. €10
+-Cozze al vapore. 10-20 min. €9
+-Filetti di pangasio con champignon.€9
+-Tonno con funghi champignon. €10
