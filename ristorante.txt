@@ -1,0 +1,8 @@
+nome ristorante: Team 4
+
+Bevande
+Antipasti
+Primi piatti
+- Spaghetti alle vongole (5€)
+- Risotto allo zafferano (4€)
+Secondi piatti
